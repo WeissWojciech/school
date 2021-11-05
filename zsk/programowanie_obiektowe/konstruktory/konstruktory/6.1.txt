@@ -1,0 +1,14 @@
+﻿„konstruktory.exe” (Win32): załadowano „C:\Users\student\source\repos\konstruktory\Debug\konstruktory.exe”. Symbole zostały załadowane.
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\ntdll.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\KernelBase.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp140d.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\vcruntime140d.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbased.dll”. 
+Wątek 0x378 zakończył działanie z kodem 0 (0x0).
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel.appcore.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcrt.dll”. 
+„konstruktory.exe” (Win32): załadowano „C:\Windows\SysWOW64\rpcrt4.dll”. 
+Wątek 0x2454 zakończył działanie z kodem 0 (0x0).
+Wątek 0x14b8 zakończył działanie z kodem 0 (0x0).
+Program „[6032] konstruktory.exe” zakończył działanie z kodem 0 (0x0).
